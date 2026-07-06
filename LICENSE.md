@@ -1,4 +1,4 @@
-# 
+# 自动 JetBrains WebStorm 预设 Mac OS版 | 轻量 JetBrains WebStorm 预设 PC Windows版。集成 响应可视化 和 镜像扫描，跨平台性能最大化。
 
 
 
